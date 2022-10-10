@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 /.idea/
 /.git/
+=======
+/cmake-build-debug/
+/.idea/
+>>>>>>> bd3c77c (initial)
